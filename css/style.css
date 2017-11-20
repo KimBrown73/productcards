@@ -1,0 +1,39 @@
+#allteacups {
+    display: flex;
+    justify-content: space-evenly;
+      margin-top: 2em;
+      margin-bottom: 2em;
+  }
+  
+  .teacups {
+    border: 1px solid lightblue;
+    width: 30%;
+  }
+  
+  .teacups h2{
+    border: 1px dotted lightgrey;
+    text-align: center;
+  }
+  
+  .images {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .s1 p {
+    text-align: justify
+  }
+  
+  .s2 p {
+    font-weight: bold;
+  }
+  
+  .s3 ul {
+    list-style: none;
+    font-weight: bold;
+  }
+  
+  div {
+    color: yellow;
+    background-color: darkgrey;
+  }
